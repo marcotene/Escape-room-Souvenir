@@ -1,0 +1,7 @@
+{
+  "name": "escape Room Souvenir",
+  "description": "Create memorable souvenirs for escape rooms with customizable mockups, overlays, and photo capture features.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
